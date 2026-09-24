@@ -1,0 +1,407 @@
+{
+ "version": "v173",
+ "generated": "2026-09-24T13:54:58",
+ "source": "phone-source/src/index.css",
+ "screensUrl": "https://raw.githubusercontent.com/mazinzein5-netizen/kog-patch/main/kog-figma-screens.json",
+ "colours": [
+  {
+   "name": "--bg",
+   "hex": "#F9F7F2",
+   "rgba": {
+    "r": 0.9764705882352941,
+    "g": 0.9686274509803922,
+    "b": 0.9490196078431372,
+    "a": 1
+   },
+   "css": "#F9F7F2"
+  },
+  {
+   "name": "--brand",
+   "hex": "#19063B",
+   "rgba": {
+    "r": 0.09803921568627451,
+    "g": 0.023529411764705882,
+    "b": 0.23137254901960785,
+    "a": 1
+   },
+   "css": "#19063b"
+  },
+  {
+   "name": "--color-border",
+   "hex": "#FFFFFF",
+   "rgba": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 0.14
+   },
+   "css": "rgba(255,255,255,0.14)"
+  },
+  {
+   "name": "--color-primary-light",
+   "hex": "#F5B23F",
+   "rgba": {
+    "r": 0.9607843137254902,
+    "g": 0.6980392156862745,
+    "b": 0.24705882352941178,
+    "a": 1
+   },
+   "css": "#F5B23F"
+  },
+  {
+   "name": "--color-surface",
+   "hex": "#FFFFFF",
+   "rgba": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 0.05
+   },
+   "css": "rgba(255,255,255,0.05)"
+  },
+  {
+   "name": "--color-text-muted",
+   "hex": "#F0F0F0",
+   "rgba": {
+    "r": 0.9411764705882353,
+    "g": 0.9411764705882353,
+    "b": 0.9411764705882353,
+    "a": 0.62
+   },
+   "css": "rgba(240,240,240,0.62)"
+  },
+  {
+   "name": "--forest",
+   "hex": "#000157",
+   "rgba": {
+    "r": 0.0,
+    "g": 0.00392156862745098,
+    "b": 0.3411764705882353,
+    "a": 1
+   },
+   "css": "#000157"
+  },
+  {
+   "name": "--glass-bg",
+   "hex": "#FFFFFF",
+   "rgba": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 0.06
+   },
+   "css": "rgba(255,255,255,0.06)"
+  },
+  {
+   "name": "--glass-border",
+   "hex": "#FFFFFF",
+   "rgba": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 0.14
+   },
+   "css": "rgba(255,255,255,0.14)"
+  },
+  {
+   "name": "--gold",
+   "hex": "#C9A227",
+   "rgba": {
+    "r": 0.788235294117647,
+    "g": 0.6352941176470588,
+    "b": 0.15294117647058825,
+    "a": 1
+   },
+   "css": "#C9A227"
+  },
+  {
+   "name": "--goldbright",
+   "hex": "#E8C454",
+   "rgba": {
+    "r": 0.9098039215686274,
+    "g": 0.7686274509803922,
+    "b": 0.32941176470588235,
+    "a": 1
+   },
+   "css": "#E8C454"
+  },
+  {
+   "name": "--harvest",
+   "hex": "#E8960F",
+   "rgba": {
+    "r": 0.9098039215686274,
+    "g": 0.5882352941176471,
+    "b": 0.058823529411764705,
+    "a": 1
+   },
+   "css": "#E8960F"
+  },
+  {
+   "name": "--ink",
+   "hex": "#111827",
+   "rgba": {
+    "r": 0.06666666666666667,
+    "g": 0.09411764705882353,
+    "b": 0.15294117647058825,
+    "a": 1
+   },
+   "css": "#111827"
+  },
+  {
+   "name": "--ink-fixed",
+   "hex": "#111827",
+   "rgba": {
+    "r": 0.06666666666666667,
+    "g": 0.09411764705882353,
+    "b": 0.15294117647058825,
+    "a": 1
+   },
+   "css": "#111827"
+  },
+  {
+   "name": "--ko-amber",
+   "hex": "#D97706",
+   "rgba": {
+    "r": 0.8509803921568627,
+    "g": 0.4666666666666667,
+    "b": 0.023529411764705882,
+    "a": 1
+   },
+   "css": "#D97706"
+  },
+  {
+   "name": "--ko-amberink",
+   "hex": "#92400E",
+   "rgba": {
+    "r": 0.5725490196078431,
+    "g": 0.25098039215686274,
+    "b": 0.054901960784313725,
+    "a": 1
+   },
+   "css": "#92400e"
+  },
+  {
+   "name": "--ko-deep",
+   "hex": "#000032",
+   "rgba": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.19607843137254902,
+    "a": 1
+   },
+   "css": "#000032"
+  },
+  {
+   "name": "--ko-emerald",
+   "hex": "#2A00D6",
+   "rgba": {
+    "r": 0.16470588235294117,
+    "g": 0.0,
+    "b": 0.8392156862745098,
+    "a": 1
+   },
+   "css": "#2A00D6"
+  },
+  {
+   "name": "--ko-forestink",
+   "hex": "#000157",
+   "rgba": {
+    "r": 0.0,
+    "g": 0.00392156862745098,
+    "b": 0.3411764705882353,
+    "a": 1
+   },
+   "css": "#000157"
+  },
+  {
+   "name": "--ko-goldink",
+   "hex": "#8A6A10",
+   "rgba": {
+    "r": 0.5411764705882353,
+    "g": 0.41568627450980394,
+    "b": 0.06274509803921569,
+    "a": 1
+   },
+   "css": "#8a6a10"
+  },
+  {
+   "name": "--ko-purple",
+   "hex": "#241A4D",
+   "rgba": {
+    "r": 0.1411764705882353,
+    "g": 0.10196078431372549,
+    "b": 0.30196078431372547,
+    "a": 1
+   },
+   "css": "#241a4d"
+  },
+  {
+   "name": "--nav",
+   "hex": "#E8DCC4",
+   "rgba": {
+    "r": 0.9098039215686274,
+    "g": 0.8627450980392157,
+    "b": 0.7686274509803922,
+    "a": 0.55
+   },
+   "css": "rgba(232,220,196,.55)"
+  },
+  {
+   "name": "--on-accent",
+   "hex": "#A99CFF",
+   "rgba": {
+    "r": 0.6627450980392157,
+    "g": 0.611764705882353,
+    "b": 1.0,
+    "a": 1
+   },
+   "css": "#A99CFF"
+  },
+  {
+   "name": "--on-page",
+   "hex": "#F0F0F0",
+   "rgba": {
+    "r": 0.9411764705882353,
+    "g": 0.9411764705882353,
+    "b": 0.9411764705882353,
+    "a": 1
+   },
+   "css": "#F0F0F0"
+  },
+  {
+   "name": "--teal",
+   "hex": "#3300FF",
+   "rgba": {
+    "r": 0.2,
+    "g": 0.0,
+    "b": 1.0,
+    "a": 1
+   },
+   "css": "#3300ff"
+  }
+ ],
+ "radii": [
+  {
+   "name": "--r-lg",
+   "value": "24px",
+   "css": "24px",
+   "px": 24.0
+  },
+  {
+   "name": "--r-md",
+   "value": "16px",
+   "css": "16px",
+   "px": 16.0
+  },
+  {
+   "name": "--radius-sm",
+   "value": "8px",
+   "css": "8px",
+   "px": 8.0
+  }
+ ],
+ "blurs": [
+  {
+   "name": "glass/b0",
+   "value": "blur(8px)"
+  },
+  {
+   "name": "glass/b1",
+   "value": "blur(14px) saturate(160%)"
+  },
+  {
+   "name": "glass/b2",
+   "value": "blur(16px) saturate(150%)"
+  },
+  {
+   "name": "glass/b3",
+   "value": "blur(18px) saturate(160%)"
+  },
+  {
+   "name": "glass/b4",
+   "value": "blur(20px)"
+  },
+  {
+   "name": "glass/b5",
+   "value": "blur(22px) saturate(170%)"
+  },
+  {
+   "name": "glass/b6",
+   "value": "blur(24px) saturate(170%)"
+  },
+  {
+   "name": "glass/b7",
+   "value": "blur(24px)"
+  }
+ ],
+ "type": [
+  {
+   "name": "display/xl",
+   "role": "display",
+   "size": 30,
+   "sample": "Kingdom Organics"
+  },
+  {
+   "name": "display/lg",
+   "role": "display",
+   "size": 24,
+   "sample": "Fresh halal grocery"
+  },
+  {
+   "name": "display/md",
+   "role": "display",
+   "size": 20,
+   "sample": "Your basket"
+  },
+  {
+   "name": "body/base",
+   "role": "body",
+   "size": 14,
+   "sample": "Earn 1 point per EUR 1 spent, redeemable as cashback."
+  },
+  {
+   "name": "body/sm",
+   "role": "body",
+   "size": 12,
+   "sample": "Live queue - refreshed every 8 seconds."
+  },
+  {
+   "name": "body/xs",
+   "role": "body",
+   "size": 10,
+   "sample": "Delivered 19:40"
+  }
+ ],
+ "screens": [
+  {
+   "name": "v172_dark_home",
+   "width": 420,
+   "height": 909,
+   "bytes": 47751
+  },
+  {
+   "name": "v172_dark_menu",
+   "width": 420,
+   "height": 909,
+   "bytes": 49044
+  },
+  {
+   "name": "v172b_dark_dashboard",
+   "width": 420,
+   "height": 909,
+   "bytes": 59572
+  },
+  {
+   "name": "v172b_light_dashboard",
+   "width": 420,
+   "height": 909,
+   "bytes": 56621
+  },
+  {
+   "name": "v172b_splash2_route",
+   "width": 420,
+   "height": 909,
+   "bytes": 31974
+  }
+ ]
+}
