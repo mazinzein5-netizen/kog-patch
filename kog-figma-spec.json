@@ -1,6 +1,6 @@
 {
  "version": "v173",
- "generated": "2026-09-29T13:13:18",
+ "generated": "2026-09-30T03:18:03",
  "source": "phone-source/src/index.css",
  "screensUrl": "https://raw.githubusercontent.com/mazinzein5-netizen/kog-patch/main/kog-figma-screens.json",
  "colours": [
@@ -402,6 +402,16 @@
    "width": 420,
    "height": 909,
    "bytes": 31974
+  }
+ ],
+ "assets": [
+  {
+   "name": "globe",
+   "width": 512,
+   "height": 512,
+   "size": 380,
+   "bytes": 407997,
+   "note": "transparent PNG"
   }
  ]
 }
