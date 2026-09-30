@@ -1,0 +1,2146 @@
+{
+  "version": "2.19",
+  "variables": {
+    "kog-forest": {
+      "type": "color",
+      "value": "#000157"
+    },
+    "kog-brand": {
+      "type": "color",
+      "value": "#19063B"
+    },
+    "kog-harvest": {
+      "type": "color",
+      "value": "#E8960F"
+    },
+    "kog-gold": {
+      "type": "color",
+      "value": "#C9A227"
+    },
+    "kog-goldbright": {
+      "type": "color",
+      "value": "#E8C454"
+    },
+    "kog-teal": {
+      "type": "color",
+      "value": "#3300FF"
+    },
+    "kog-bg": {
+      "type": "color",
+      "value": "#F9F7F2"
+    },
+    "kog-ink": {
+      "type": "color",
+      "value": "#111827"
+    },
+    "kog-cream": {
+      "type": "color",
+      "value": "#EFE7D6"
+    },
+    "kog-muted": {
+      "type": "color",
+      "value": "#6B7280"
+    },
+    "kog-r-md": {
+      "type": "number",
+      "value": 16
+    },
+    "kog-r-lg": {
+      "type": "number",
+      "value": 24
+    }
+  },
+  "children": [
+    {
+      "type": "frame",
+      "id": "f0033",
+      "name": "Home . KOG 0.0.0.1",
+      "layout": "vertical",
+      "width": 390,
+      "height": 844,
+      "fill": "#000157",
+      "clip": true,
+      "gap": 0,
+      "children": [
+        {
+          "type": "frame",
+          "id": "f0027",
+          "name": "StatusBar",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "height": 44,
+          "padding": 16,
+          "gap": 10,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "t0025",
+              "name": "Clock",
+              "content": "9:41",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#F0F0F0",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0026",
+              "name": "Version",
+              "content": "KOG 0.0.0.1",
+              "fontFamily": "Comfortaa",
+              "fontSize": 13,
+              "fill": "#E8C454",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0024",
+          "name": "Body",
+          "layout": "vertical",
+          "width": "fill_container",
+          "height": "fill_container",
+          "padding": 20,
+          "gap": 16,
+          "children": [
+            {
+              "type": "frame",
+              "id": "f0005",
+              "name": "Hero",
+              "fill": "#19063B",
+              "cornerRadius": 24,
+              "layout": "vertical",
+              "width": "fill_container",
+              "padding": 24,
+              "gap": 12,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "t0003",
+                  "name": "HeroTitle",
+                  "content": "Fresh from the farm",
+                  "fontFamily": "Comfortaa",
+                  "fontSize": 30,
+                  "fill": "#E8C454",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container"
+                },
+                {
+                  "type": "text",
+                  "id": "t0004",
+                  "name": "HeroSub",
+                  "content": "Halal groceries delivered across Tralee in under 90 minutes.",
+                  "fontFamily": "DM Sans",
+                  "fontSize": 14,
+                  "fill": "#A99CFF",
+                  "textGrowth": "fixed-width",
+                  "width": "fill_container"
+                },
+                {
+                  "type": "frame",
+                  "id": "f0002",
+                  "name": "HeroCTA",
+                  "fill": "#E8960F",
+                  "cornerRadius": 24,
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "padding": 12,
+                  "gap": 8,
+                  "justifyContent": "center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "t0001",
+                      "name": "HeroCTALabel",
+                      "content": "Shop now",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 15,
+                      "fill": "#111827"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "t0021",
+              "name": "SectionTitle",
+              "content": "Categories",
+              "fontFamily": "Comfortaa",
+              "fontSize": 20,
+              "fill": "#E8C454",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "frame",
+              "id": "f0022",
+              "name": "CategoryRow",
+              "layout": "horizontal",
+              "width": "fill_container",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "f0008",
+                  "name": "CategoryFruit",
+                  "fill": "#19063B",
+                  "cornerRadius": 16,
+                  "layout": "vertical",
+                  "width": "fill_container",
+                  "padding": 14,
+                  "gap": 6,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "t0006",
+                      "name": "FruitLabel",
+                      "content": "Fruit",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 14,
+                      "fill": "#F0F0F0",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0007",
+                      "name": "FruitCount",
+                      "content": "24 items",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 11,
+                      "fill": "#A99CFF",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0011",
+                  "name": "CategoryVeg",
+                  "fill": "#19063B",
+                  "cornerRadius": 16,
+                  "layout": "vertical",
+                  "width": "fill_container",
+                  "padding": 14,
+                  "gap": 6,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "t0009",
+                      "name": "VegLabel",
+                      "content": "Veg",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 14,
+                      "fill": "#F0F0F0",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0010",
+                      "name": "VegCount",
+                      "content": "31 items",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 11,
+                      "fill": "#A99CFF",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0014",
+                  "name": "CategoryPantry",
+                  "fill": "#19063B",
+                  "cornerRadius": 16,
+                  "layout": "vertical",
+                  "width": "fill_container",
+                  "padding": 14,
+                  "gap": 6,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "t0012",
+                      "name": "PantryLabel",
+                      "content": "Pantry",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 14,
+                      "fill": "#F0F0F0",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0013",
+                      "name": "PantryCount",
+                      "content": "58 items",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 11,
+                      "fill": "#A99CFF",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "f0023",
+              "name": "StatRow",
+              "layout": "horizontal",
+              "width": "fill_container",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "f0017",
+                  "name": "StatDelivery",
+                  "fill": "#19063B",
+                  "cornerRadius": 16,
+                  "layout": "vertical",
+                  "width": "fill_container",
+                  "padding": 16,
+                  "gap": 6,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "t0015",
+                      "name": "DeliveryBig",
+                      "content": "90 min",
+                      "fontFamily": "Comfortaa",
+                      "fontSize": 22,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0016",
+                      "name": "DeliverySmall",
+                      "content": "Delivery",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 12,
+                      "fill": "#A99CFF",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0020",
+                  "name": "StatRating",
+                  "fill": "#19063B",
+                  "cornerRadius": 16,
+                  "layout": "vertical",
+                  "width": "fill_container",
+                  "padding": 16,
+                  "gap": 6,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "t0018",
+                      "name": "RatingBig",
+                      "content": "4.9",
+                      "fontFamily": "Comfortaa",
+                      "fontSize": 22,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0019",
+                      "name": "RatingSmall",
+                      "content": "Rating",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 12,
+                      "fill": "#A99CFF",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0032",
+          "name": "BottomNav",
+          "fill": "#F9F7F2",
+          "cornerRadius": 24,
+          "layout": "horizontal",
+          "width": "fill_container",
+          "height": 72,
+          "padding": 16,
+          "gap": 8,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "t0028",
+              "name": "NavHome",
+              "content": "Home",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#111827",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0029",
+              "name": "NavShop",
+              "content": "Shop",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#6B7280",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0030",
+              "name": "NavOrders",
+              "content": "Orders",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#6B7280",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0031",
+              "name": "NavAccount",
+              "content": "Account",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#6B7280",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "f0065",
+      "name": "Design System . KOG 0.0.0.1",
+      "layout": "vertical",
+      "width": 390,
+      "height": 844,
+      "fill": "#000157",
+      "clip": true,
+      "gap": 14,
+      "children": [
+        {
+          "type": "text",
+          "id": "t0058",
+          "name": "DSTitle",
+          "content": "KOG Design System",
+          "fontFamily": "Comfortaa",
+          "fontSize": 26,
+          "fill": "#E8C454",
+          "textGrowth": "fixed-width",
+          "width": "fill_container"
+        },
+        {
+          "type": "text",
+          "id": "t0059",
+          "name": "DSSub",
+          "content": "v0.0.0.1 . source phone-source/src/index.css",
+          "fontFamily": "DM Sans",
+          "fontSize": 12,
+          "fill": "#A99CFF",
+          "textGrowth": "fixed-width",
+          "width": "fill_container"
+        },
+        {
+          "type": "text",
+          "id": "t0060",
+          "name": "DSPalette",
+          "content": "Palette",
+          "fontFamily": "Comfortaa",
+          "fontSize": 18,
+          "fill": "#E8C454",
+          "textGrowth": "fixed-width",
+          "width": "fill_container"
+        },
+        {
+          "type": "frame",
+          "id": "f0036",
+          "name": "Swatch_forest",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "r0034",
+              "name": "Chip_forest",
+              "width": 56,
+              "height": 56,
+              "fill": "#000157",
+              "cornerRadius": 12
+            },
+            {
+              "type": "text",
+              "id": "t0035",
+              "name": "Hex_forest",
+              "content": "forest  #000157",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#F0F0F0",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0039",
+          "name": "Swatch_brand",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "r0037",
+              "name": "Chip_brand",
+              "width": 56,
+              "height": 56,
+              "fill": "#19063B",
+              "cornerRadius": 12
+            },
+            {
+              "type": "text",
+              "id": "t0038",
+              "name": "Hex_brand",
+              "content": "brand  #19063B",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#F0F0F0",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0042",
+          "name": "Swatch_harvest",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "r0040",
+              "name": "Chip_harvest",
+              "width": 56,
+              "height": 56,
+              "fill": "#E8960F",
+              "cornerRadius": 12
+            },
+            {
+              "type": "text",
+              "id": "t0041",
+              "name": "Hex_harvest",
+              "content": "harvest  #E8960F",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#F0F0F0",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0045",
+          "name": "Swatch_gold",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "r0043",
+              "name": "Chip_gold",
+              "width": 56,
+              "height": 56,
+              "fill": "#C9A227",
+              "cornerRadius": 12
+            },
+            {
+              "type": "text",
+              "id": "t0044",
+              "name": "Hex_gold",
+              "content": "gold  #C9A227",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#F0F0F0",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0048",
+          "name": "Swatch_goldbright",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "r0046",
+              "name": "Chip_goldbright",
+              "width": 56,
+              "height": 56,
+              "fill": "#E8C454",
+              "cornerRadius": 12
+            },
+            {
+              "type": "text",
+              "id": "t0047",
+              "name": "Hex_goldbright",
+              "content": "goldbright  #E8C454",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#F0F0F0",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0051",
+          "name": "Swatch_teal",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "r0049",
+              "name": "Chip_teal",
+              "width": 56,
+              "height": 56,
+              "fill": "#3300FF",
+              "cornerRadius": 12
+            },
+            {
+              "type": "text",
+              "id": "t0050",
+              "name": "Hex_teal",
+              "content": "teal  #3300FF",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#F0F0F0",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0054",
+          "name": "Swatch_bg",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "r0052",
+              "name": "Chip_bg",
+              "width": 56,
+              "height": 56,
+              "fill": "#F9F7F2",
+              "cornerRadius": 12
+            },
+            {
+              "type": "text",
+              "id": "t0053",
+              "name": "Hex_bg",
+              "content": "bg  #F9F7F2",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#F0F0F0",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0057",
+          "name": "Swatch_ink",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "gap": 12,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "r0055",
+              "name": "Chip_ink",
+              "width": 56,
+              "height": 56,
+              "fill": "#111827",
+              "cornerRadius": 12
+            },
+            {
+              "type": "text",
+              "id": "t0056",
+              "name": "Hex_ink",
+              "content": "ink  #111827",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#F0F0F0",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "t0061",
+          "name": "DSType",
+          "content": "Type",
+          "fontFamily": "Comfortaa",
+          "fontSize": 18,
+          "fill": "#E8C454",
+          "textGrowth": "fixed-width",
+          "width": "fill_container"
+        },
+        {
+          "type": "text",
+          "id": "t0062",
+          "name": "TypeDisplay",
+          "content": "Comfortaa . display . headings",
+          "fontFamily": "Comfortaa",
+          "fontSize": 15,
+          "fill": "#F0F0F0",
+          "textGrowth": "fixed-width",
+          "width": "fill_container"
+        },
+        {
+          "type": "text",
+          "id": "t0063",
+          "name": "TypeBody",
+          "content": "DM Sans . body . UI text",
+          "fontFamily": "DM Sans",
+          "fontSize": 15,
+          "fill": "#F0F0F0",
+          "textGrowth": "fixed-width",
+          "width": "fill_container"
+        },
+        {
+          "type": "text",
+          "id": "t0064",
+          "name": "DSTypeSub",
+          "content": "Radii . 16 / 24   Blur . glass 8-16px",
+          "fontFamily": "DM Sans",
+          "fontSize": 12,
+          "fill": "#A99CFF",
+          "textGrowth": "fixed-width",
+          "width": "fill_container"
+        }
+      ],
+      "padding": 20
+    },
+    {
+      "type": "frame",
+      "id": "f0109",
+      "name": "Menu . KOG 0.0.0.1",
+      "layout": "vertical",
+      "width": 390,
+      "height": 844,
+      "fill": "#000157",
+      "clip": true,
+      "gap": 0,
+      "children": [
+        {
+          "type": "frame",
+          "id": "f0103",
+          "name": "StatusBar",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "height": 44,
+          "padding": 16,
+          "gap": 10,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "t0101",
+              "name": "Clock",
+              "content": "9:41",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#F0F0F0",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0102",
+              "name": "Version",
+              "content": "KOG 0.0.0.1",
+              "fontFamily": "Comfortaa",
+              "fontSize": 13,
+              "fill": "#E8C454",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0100",
+          "name": "MenuBody",
+          "layout": "vertical",
+          "width": "fill_container",
+          "height": "fill_container",
+          "padding": 20,
+          "gap": 14,
+          "children": [
+            {
+              "type": "text",
+              "id": "t0096",
+              "name": "MenuTitle",
+              "content": "Shop by aisle",
+              "fontFamily": "Comfortaa",
+              "fontSize": 26,
+              "fill": "#E8C454",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0097",
+              "name": "MenuSub",
+              "content": "Everything we stock, delivered from Tralee",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#A99CFF",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "frame",
+              "id": "f0098",
+              "name": "MenuCard",
+              "fill": "#19063B",
+              "cornerRadius": 16,
+              "layout": "vertical",
+              "width": "fill_container",
+              "gap": 0,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "f0070",
+                  "name": "MenuRow_0",
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "padding": 16,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "f0068",
+                      "name": "MenuLabelWrap_0",
+                      "layout": "vertical",
+                      "width": "fill_container",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "t0066",
+                          "name": "MenuName_0",
+                          "content": "Shop all",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 15,
+                          "fill": "#F0F0F0",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        },
+                        {
+                          "type": "text",
+                          "id": "t0067",
+                          "name": "MenuCount_0",
+                          "content": "128 products",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 12,
+                          "fill": "#A99CFF",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0069",
+                      "name": "MenuArrow_0",
+                      "content": ">",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 16,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0075",
+                  "name": "MenuRow_1",
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "padding": 16,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "f0073",
+                      "name": "MenuLabelWrap_1",
+                      "layout": "vertical",
+                      "width": "fill_container",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "t0071",
+                          "name": "MenuName_1",
+                          "content": "Fresh produce",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 15,
+                          "fill": "#F0F0F0",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        },
+                        {
+                          "type": "text",
+                          "id": "t0072",
+                          "name": "MenuCount_1",
+                          "content": "52 items",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 12,
+                          "fill": "#A99CFF",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0074",
+                      "name": "MenuArrow_1",
+                      "content": ">",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 16,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0080",
+                  "name": "MenuRow_2",
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "padding": 16,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "f0078",
+                      "name": "MenuLabelWrap_2",
+                      "layout": "vertical",
+                      "width": "fill_container",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "t0076",
+                          "name": "MenuName_2",
+                          "content": "Bakery",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 15,
+                          "fill": "#F0F0F0",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        },
+                        {
+                          "type": "text",
+                          "id": "t0077",
+                          "name": "MenuCount_2",
+                          "content": "18 items",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 12,
+                          "fill": "#A99CFF",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0079",
+                      "name": "MenuArrow_2",
+                      "content": ">",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 16,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "f0099",
+              "name": "MenuCard2",
+              "fill": "#19063B",
+              "cornerRadius": 16,
+              "layout": "vertical",
+              "width": "fill_container",
+              "gap": 0,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "f0085",
+                  "name": "MenuRow_3",
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "padding": 16,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "f0083",
+                      "name": "MenuLabelWrap_3",
+                      "layout": "vertical",
+                      "width": "fill_container",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "t0081",
+                          "name": "MenuName_3",
+                          "content": "Halal butcher",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 15,
+                          "fill": "#F0F0F0",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        },
+                        {
+                          "type": "text",
+                          "id": "t0082",
+                          "name": "MenuCount_3",
+                          "content": "34 items",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 12,
+                          "fill": "#A99CFF",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0084",
+                      "name": "MenuArrow_3",
+                      "content": ">",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 16,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0090",
+                  "name": "MenuRow_4",
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "padding": 16,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "f0088",
+                      "name": "MenuLabelWrap_4",
+                      "layout": "vertical",
+                      "width": "fill_container",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "t0086",
+                          "name": "MenuName_4",
+                          "content": "Pantry",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 15,
+                          "fill": "#F0F0F0",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        },
+                        {
+                          "type": "text",
+                          "id": "t0087",
+                          "name": "MenuCount_4",
+                          "content": "58 items",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 12,
+                          "fill": "#A99CFF",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0089",
+                      "name": "MenuArrow_4",
+                      "content": ">",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 16,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0095",
+                  "name": "MenuRow_5",
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "gap": 12,
+                  "padding": 16,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "f0093",
+                      "name": "MenuLabelWrap_5",
+                      "layout": "vertical",
+                      "width": "fill_container",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "t0091",
+                          "name": "MenuName_5",
+                          "content": "Household",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 15,
+                          "fill": "#F0F0F0",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        },
+                        {
+                          "type": "text",
+                          "id": "t0092",
+                          "name": "MenuCount_5",
+                          "content": "41 items",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 12,
+                          "fill": "#A99CFF",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0094",
+                      "name": "MenuArrow_5",
+                      "content": ">",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 16,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0108",
+          "name": "BottomNav",
+          "fill": "#F9F7F2",
+          "cornerRadius": 24,
+          "layout": "horizontal",
+          "width": "fill_container",
+          "height": 72,
+          "padding": 16,
+          "gap": 8,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "t0104",
+              "name": "NavHome",
+              "content": "Home",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#6B7280",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0105",
+              "name": "NavShop",
+              "content": "Shop",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#111827",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0106",
+              "name": "NavOrders",
+              "content": "Orders",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#6B7280",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0107",
+              "name": "NavAccount",
+              "content": "Account",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#6B7280",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "f0145",
+      "name": "Dashboard Dark . KOG 0.0.0.1",
+      "layout": "vertical",
+      "width": 390,
+      "height": 844,
+      "fill": "#000157",
+      "clip": true,
+      "gap": 0,
+      "children": [
+        {
+          "type": "frame",
+          "id": "f0139",
+          "name": "StatusBar",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "height": 44,
+          "padding": 16,
+          "gap": 10,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "t0137",
+              "name": "Clock",
+              "content": "9:41",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#F0F0F0",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0138",
+              "name": "Version",
+              "content": "KOG 0.0.0.1",
+              "fontFamily": "Comfortaa",
+              "fontSize": 13,
+              "fill": "#E8C454",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0136",
+          "name": "DashBody",
+          "layout": "vertical",
+          "width": "fill_container",
+          "height": "fill_container",
+          "padding": 20,
+          "gap": 14,
+          "children": [
+            {
+              "type": "text",
+              "id": "t0131",
+              "name": "DashTitle",
+              "content": "Your kitchen",
+              "fontFamily": "Comfortaa",
+              "fontSize": 26,
+              "fill": "#E8C454",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0132",
+              "name": "DashSub",
+              "content": "Signed in as KOG customer",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#A99CFF",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "frame",
+              "id": "f0133",
+              "name": "KpiRow",
+              "layout": "horizontal",
+              "width": "fill_container",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "f0112",
+                  "name": "KpiOrders",
+                  "fill": "#19063B",
+                  "cornerRadius": 16,
+                  "layout": "vertical",
+                  "width": "fill_container",
+                  "padding": 16,
+                  "gap": 4,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "t0110",
+                      "name": "OrdersValue",
+                      "content": "12",
+                      "fontFamily": "Comfortaa",
+                      "fontSize": 22,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0111",
+                      "name": "OrdersLabel",
+                      "content": "Orders",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 11,
+                      "fill": "#A99CFF",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0115",
+                  "name": "KpiSpend",
+                  "fill": "#19063B",
+                  "cornerRadius": 16,
+                  "layout": "vertical",
+                  "width": "fill_container",
+                  "padding": 16,
+                  "gap": 4,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "t0113",
+                      "name": "SpendValue",
+                      "content": "EUR 84",
+                      "fontFamily": "Comfortaa",
+                      "fontSize": 22,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0114",
+                      "name": "SpendLabel",
+                      "content": "Spend",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 11,
+                      "fill": "#A99CFF",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "t0134",
+              "name": "DashRecent",
+              "content": "Recent orders",
+              "fontFamily": "Comfortaa",
+              "fontSize": 18,
+              "fill": "#E8C454",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "frame",
+              "id": "f0135",
+              "name": "OrdersCard",
+              "fill": "#19063B",
+              "cornerRadius": 16,
+              "layout": "vertical",
+              "width": "fill_container",
+              "gap": 0,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "f0120",
+                  "name": "OrderRow_0",
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "padding": 14,
+                  "gap": 12,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "f0118",
+                      "name": "OrderInfo_0",
+                      "layout": "vertical",
+                      "width": "fill_container",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "t0116",
+                          "name": "OrderId_0",
+                          "content": "#KOG-1042",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 14,
+                          "fill": "#EFE7D6",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        },
+                        {
+                          "type": "text",
+                          "id": "t0117",
+                          "name": "OrderMeta_0",
+                          "content": "Today . 11:20 . 6 items",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 11,
+                          "fill": "#A99CFF",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0119",
+                      "name": "OrderTotal_0",
+                      "content": "EUR 42.10",
+                      "fontFamily": "Comfortaa",
+                      "fontSize": 14,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0125",
+                  "name": "OrderRow_1",
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "padding": 14,
+                  "gap": 12,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "f0123",
+                      "name": "OrderInfo_1",
+                      "layout": "vertical",
+                      "width": "fill_container",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "t0121",
+                          "name": "OrderId_1",
+                          "content": "#KOG-1037",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 14,
+                          "fill": "#EFE7D6",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        },
+                        {
+                          "type": "text",
+                          "id": "t0122",
+                          "name": "OrderMeta_1",
+                          "content": "Yesterday . 17:45 . 9 items",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 11,
+                          "fill": "#A99CFF",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0124",
+                      "name": "OrderTotal_1",
+                      "content": "EUR 61.80",
+                      "fontFamily": "Comfortaa",
+                      "fontSize": 14,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0130",
+                  "name": "OrderRow_2",
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "padding": 14,
+                  "gap": 12,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "f0128",
+                      "name": "OrderInfo_2",
+                      "layout": "vertical",
+                      "width": "fill_container",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "t0126",
+                          "name": "OrderId_2",
+                          "content": "#KOG-1029",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 14,
+                          "fill": "#EFE7D6",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        },
+                        {
+                          "type": "text",
+                          "id": "t0127",
+                          "name": "OrderMeta_2",
+                          "content": "Mon . 09:12 . 4 items",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 11,
+                          "fill": "#A99CFF",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0129",
+                      "name": "OrderTotal_2",
+                      "content": "EUR 27.40",
+                      "fontFamily": "Comfortaa",
+                      "fontSize": 14,
+                      "fill": "#E8C454",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0144",
+          "name": "BottomNav",
+          "fill": "#F9F7F2",
+          "cornerRadius": 24,
+          "layout": "horizontal",
+          "width": "fill_container",
+          "height": 72,
+          "padding": 16,
+          "gap": 8,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "t0140",
+              "name": "NavHome",
+              "content": "Home",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#6B7280",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0141",
+              "name": "NavShop",
+              "content": "Shop",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#6B7280",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0142",
+              "name": "NavOrders",
+              "content": "Orders",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#111827",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0143",
+              "name": "NavAccount",
+              "content": "Account",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#6B7280",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "f0176",
+      "name": "Dashboard Light . KOG 0.0.0.1",
+      "layout": "vertical",
+      "width": 390,
+      "height": 844,
+      "fill": "#F9F7F2",
+      "clip": true,
+      "gap": 0,
+      "children": [
+        {
+          "type": "frame",
+          "id": "f0170",
+          "name": "StatusBar",
+          "layout": "horizontal",
+          "width": "fill_container",
+          "height": 44,
+          "padding": 16,
+          "gap": 10,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "t0168",
+              "name": "Clock",
+              "content": "9:41",
+              "fontFamily": "DM Sans",
+              "fontSize": 13,
+              "fill": "#111827",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0169",
+              "name": "Version",
+              "content": "KOG 0.0.0.1",
+              "fontFamily": "Comfortaa",
+              "fontSize": 13,
+              "fill": "#E8C454",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0167",
+          "name": "DashBodyLight",
+          "layout": "vertical",
+          "width": "fill_container",
+          "height": "fill_container",
+          "padding": 20,
+          "gap": 14,
+          "children": [
+            {
+              "type": "text",
+              "id": "t0162",
+              "name": "DashTitleL",
+              "content": "Your kitchen",
+              "fontFamily": "Comfortaa",
+              "fontSize": 26,
+              "fill": "#000157",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0163",
+              "name": "DashSubL",
+              "content": "Light surface . ink text on cream",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#6B7280",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "frame",
+              "id": "f0164",
+              "name": "KpiRowL",
+              "layout": "horizontal",
+              "width": "fill_container",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "f0148",
+                  "name": "KpiOrdersL",
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "layout": "vertical",
+                  "width": "fill_container",
+                  "padding": 16,
+                  "gap": 4,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "t0146",
+                      "name": "KpiOrdersValueL",
+                      "content": "12",
+                      "fontFamily": "Comfortaa",
+                      "fontSize": 22,
+                      "fill": "#000157",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0147",
+                      "name": "KpiOrdersLabelL",
+                      "content": "Orders",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 11,
+                      "fill": "#6B7280",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0151",
+                  "name": "KpiSpendL",
+                  "fill": "#FFFFFF",
+                  "cornerRadius": 16,
+                  "layout": "vertical",
+                  "width": "fill_container",
+                  "padding": 16,
+                  "gap": 4,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "t0149",
+                      "name": "KpiSpendValueL",
+                      "content": "EUR 84",
+                      "fontFamily": "Comfortaa",
+                      "fontSize": 22,
+                      "fill": "#000157",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0150",
+                      "name": "KpiSpendLabelL",
+                      "content": "Spend",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 11,
+                      "fill": "#6B7280",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "id": "t0165",
+              "name": "DashRecentL",
+              "content": "Recent orders",
+              "fontFamily": "Comfortaa",
+              "fontSize": 18,
+              "fill": "#000157",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "frame",
+              "id": "f0166",
+              "name": "OrdersCardL",
+              "fill": "#FFFFFF",
+              "cornerRadius": 16,
+              "layout": "vertical",
+              "width": "fill_container",
+              "gap": 0,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "f0156",
+                  "name": "OrderRowL_0",
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "padding": 14,
+                  "gap": 12,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "f0154",
+                      "name": "OrderInfoL_0",
+                      "layout": "vertical",
+                      "width": "fill_container",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "t0152",
+                          "name": "OrderIdL_0",
+                          "content": "#KOG-1042",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 14,
+                          "fill": "#111827",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        },
+                        {
+                          "type": "text",
+                          "id": "t0153",
+                          "name": "OrderMetaL_0",
+                          "content": "Today . 11:20 . 6 items",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 11,
+                          "fill": "#6B7280",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0155",
+                      "name": "OrderTotalL_0",
+                      "content": "EUR 42.10",
+                      "fontFamily": "Comfortaa",
+                      "fontSize": 14,
+                      "fill": "#E8960F",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "f0161",
+                  "name": "OrderRowL_1",
+                  "layout": "horizontal",
+                  "width": "fill_container",
+                  "padding": 14,
+                  "gap": 12,
+                  "alignItems": "center",
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "f0159",
+                      "name": "OrderInfoL_1",
+                      "layout": "vertical",
+                      "width": "fill_container",
+                      "gap": 2,
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "t0157",
+                          "name": "OrderIdL_1",
+                          "content": "#KOG-1037",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 14,
+                          "fill": "#111827",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        },
+                        {
+                          "type": "text",
+                          "id": "t0158",
+                          "name": "OrderMetaL_1",
+                          "content": "Yesterday . 17:45 . 9 items",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 11,
+                          "fill": "#6B7280",
+                          "textGrowth": "fixed-width",
+                          "width": "fill_container"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "id": "t0160",
+                      "name": "OrderTotalL_1",
+                      "content": "EUR 61.80",
+                      "fontFamily": "Comfortaa",
+                      "fontSize": 14,
+                      "fill": "#E8960F",
+                      "textGrowth": "fixed-width",
+                      "width": "fill_container"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0175",
+          "name": "BottomNav",
+          "fill": "#000157",
+          "cornerRadius": 24,
+          "layout": "horizontal",
+          "width": "fill_container",
+          "height": 72,
+          "padding": 16,
+          "gap": 8,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "t0171",
+              "name": "NavHome",
+              "content": "Home",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#A99CFF",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0172",
+              "name": "NavShop",
+              "content": "Shop",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#A99CFF",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0173",
+              "name": "NavOrders",
+              "content": "Orders",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#EFE7D6",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0174",
+              "name": "NavAccount",
+              "content": "Account",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#A99CFF",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "frame",
+      "id": "f0186",
+      "name": "Splash . KOG 0.0.0.1",
+      "layout": "vertical",
+      "width": 390,
+      "height": 844,
+      "fill": "#000157",
+      "clip": true,
+      "gap": 0,
+      "children": [
+        {
+          "type": "frame",
+          "id": "f0177",
+          "name": "SplashSpacer",
+          "layout": "vertical",
+          "width": "fill_container",
+          "height": 120
+        },
+        {
+          "type": "frame",
+          "id": "f0182",
+          "name": "SplashCenter",
+          "layout": "vertical",
+          "width": "fill_container",
+          "height": "fill_container",
+          "padding": 32,
+          "gap": 16,
+          "alignItems": "center",
+          "justifyContent": "center",
+          "children": [
+            {
+              "type": "rectangle",
+              "id": "r0178",
+              "name": "SplashMark",
+              "width": 148,
+              "height": 148,
+              "fill": "#19063B",
+              "cornerRadius": 40
+            },
+            {
+              "type": "text",
+              "id": "t0179",
+              "name": "SplashTitle",
+              "content": "Kingdom Organics",
+              "fontFamily": "Comfortaa",
+              "fontSize": 30,
+              "fill": "#E8C454",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0180",
+              "name": "SplashTag",
+              "content": "Halal groceries . Tralee",
+              "fontFamily": "DM Sans",
+              "fontSize": 14,
+              "fill": "#A99CFF",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0181",
+              "name": "SplashTag2",
+              "content": "Kerry . Ireland",
+              "fontFamily": "DM Sans",
+              "fontSize": 12,
+              "fill": "#3300FF",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "f0185",
+          "name": "SplashFoot",
+          "layout": "vertical",
+          "width": "fill_container",
+          "padding": 24,
+          "gap": 6,
+          "alignItems": "center",
+          "children": [
+            {
+              "type": "text",
+              "id": "t0183",
+              "name": "SplashVersion",
+              "content": "KOG 0.0.0.1",
+              "fontFamily": "Comfortaa",
+              "fontSize": 13,
+              "fill": "#E8C454",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            },
+            {
+              "type": "text",
+              "id": "t0184",
+              "name": "SplashLoading",
+              "content": "Loading your basket...",
+              "fontFamily": "DM Sans",
+              "fontSize": 11,
+              "fill": "#A99CFF",
+              "textGrowth": "fixed-width",
+              "width": "fill_container"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
