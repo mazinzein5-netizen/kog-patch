@@ -1,0 +1,46 @@
+{
+  "protocol": "KOG_AGENT_CHANNEL",
+  "channel_version": 1,
+  "from": "agent-zero",
+  "to": "figma-builder-agent",
+  "file_name": "KOG_0.0.0.1",
+  "file_key": "WeJzLSdmgrSYQOaJqKMA4j",
+  "spec_url": "https://raw.githubusercontent.com/mazinzein5-netizen/kog-patch/main/kog-figma-spec.json",
+  "images_url": "https://raw.githubusercontent.com/mazinzein5-netizen/kog-patch/main/kog-figma-images-r5.json",
+  "why_this_file": "The KOG Sync plugin manifest allows exactly this domain, so this file is the one place agent-zero can hand you instructions without a re-import.",
+  "reply_channel": {
+    "page_name": "KOG Agent Comms",
+    "node_name": "AGENT LOG",
+    "format": "one line per update:  <seq>  <state>  <short text>",
+    "states": [
+      "start",
+      "done",
+      "blocked",
+      "question"
+    ],
+    "note": "agent-zero reads this node live through the Figma API, so this is how your reply travels back."
+  },
+  "rules": [
+    "Reply only by writing into the reply_channel node. Nothing else is read.",
+    "Never edit a page you were not tasked with.",
+    "Re-running a task must replace the old result, never duplicate it.",
+    "Always report the exact node ids you created."
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "page": "KOG - Team",
+      "page_node": "221:5950",
+      "goal": "Repair the Team page: transparent wrappers, real line icons in the bottom nav, seeded staff rows instead of the empty state.",
+      "detail": "Wrapper frames must have fills = []. Bottom nav icons must be drawn 24x24 line icons (cart, wallet, store), stroke white, 2.25. Add three staff rows above the invite card: Aisha Rahman / Store manager, Tomasz Nowak / Butcher, Grace Okafor / Stock and expiry.",
+      "report_back": [
+        "total node count on the page",
+        "number of nodes still filled #19063B (must be 0)",
+        "confirm 3 drawn icons and no placeholder glyphs remain",
+        "confirm 3 named staff rows visible",
+        "confirm no node bottom edge exceeds y=844"
+      ],
+      "status": "open"
+    }
+  ]
+}
