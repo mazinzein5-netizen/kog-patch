@@ -4,12 +4,12 @@ theme: default
 paginate: true
 ---
 
-# Kingdom Organics - Driver Careers
+# Kingdom Organics - Courier Careers
 Delivering Kerry's own fresh groceries. Tralee Pilot. 2026.
 
 ---
 
-## Be your own driver
+## Be your own courier
 No boss, no uniform, no warehouse. You choose your 3-hour windows and drive in Tralee using your own car.
 
 ---
@@ -37,7 +37,7 @@ The apps squeeze you, taking up to 35 pct from the restaurant, and offer you tin
 ---
 
 ## The floor guarantee
-We open a driver window only when enough drops are booked to guarantee your minimum. Thin days don't trap you, so you aren't paid out of our empty pocket.
+We open a courier window only when enough drops are booked to guarantee your minimum. Thin days don't trap you, so you aren't paid out of our empty pocket.
 
 ---
 
