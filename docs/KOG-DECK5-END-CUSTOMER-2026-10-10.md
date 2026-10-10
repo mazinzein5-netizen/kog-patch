@@ -41,4 +41,4 @@ GDPR compliant. We never sell your data. Pay by card. Cancel any time, no catch.
 ---
 
 # Launching in Tralee
-Live now with 3 founding stores, more towns soon. Order the local way - fresh food from your neighbours, for less.
+Live now with 3 pilot stores, more towns soon. Order the local way - fresh food from your neighbours, for less.
