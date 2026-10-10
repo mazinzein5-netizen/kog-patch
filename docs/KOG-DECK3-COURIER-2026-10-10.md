@@ -31,7 +31,7 @@ Guaranteed shift floor EUR 40 for a 3-hour booked window (about EUR 13.33 an hou
 ---
 
 # Why we are different (the anti-squeeze)
-DoorDash was caught using your tips to SUBSIDISE its base pay - a EUR 20 tip did not add to what you earned. We publish the rate BEFORE you accept and never touch your tips. Just Eat shows no rate at all. We do.
+DoorDash was caught using your tips to SUBSIDISE its base pay - a EUR 20 tip did not add to what you earned. We publish the rate BEFORE you accept and never touch your tips. the big delivery apps shows no rate at all. We do.
 
 ---
 
