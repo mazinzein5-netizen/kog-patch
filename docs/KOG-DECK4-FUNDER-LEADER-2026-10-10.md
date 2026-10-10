@@ -21,7 +21,7 @@ LEADER Analysis and Development: up to 90 pct aid, EUR 30,000 cap, to fund the 3
 ---
 
 # The model, true
-15/20/28 pct commission plus ONE EUR 2.50 customer service fee. A Zone A grocery drop nets the platform EUR 3.94 and pays the driver EUR 7 to clear their fuel.
+15/20/28 pct commission plus ONE EUR 3.99 customer fee (Delivery 2.50 + Service 1.49). A Zone A grocery drop nets the platform EUR 3.94 and pays the driver EUR 7 to clear their fuel.
 
 ---
 
