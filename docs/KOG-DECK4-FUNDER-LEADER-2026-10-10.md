@@ -26,7 +26,7 @@ LEADER Analysis and Development: up to 90 pct aid, EUR 30,000 cap, to fund the 3
 ---
 
 # Why it survives without the grant
-Asset-light, zero-fleet Stage A, own-car couriers. The pilot SELF-FUNDS at about 10 drops a day across 3 stores with no capital. The grant buys SPEED and the research to go 3-to-22 stores - a project that cannot die if you say no.
+Asset-light, zero-fleet Stage A, own-car couriers. The 4-week Tralee pilot IS the feasibility evidence sprint. At standard rates it self-funds at ~10 drops a day; the 50% off founding pilot outlay (about EUR 350-550) is the study cost the grant covers. The grant buys SPEED and evidence to go 3-to-22 - a project that cannot die if you say no.
 
 ---
 
