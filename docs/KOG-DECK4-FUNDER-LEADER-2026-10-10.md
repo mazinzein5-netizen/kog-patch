@@ -5,57 +5,55 @@ paginate: true
 size: 16:9
 ---
 
+# Kingdom Organics - Funder / LEADER + LEO
+Rural grocery logistics. Tralee pilot. Evidence-backed.
 
-# FUNDER / LEADER + LEO
-Kingdom Organics. Tralee pilot. 2026.
-
----
-
-# Title
-
-Kingdom Organics - rural grocery logistics, Tralee pilot.
 ---
 
 # What we ask
+LEADER Analysis and Development: up to 90 pct aid, EUR 30,000 cap, to fund the 3-store Tralee validation and the local demand study (match ~EUR 3,000). Kerry LEO Feasibility Grant: 50 pct up to EUR 15,000, no match required.
 
-LEADER Analysis and Development, up to 90 pct aid, 30000 EUR cap, to fund the 3-store Tralee Stage A validation and the local demand study. Match needed about 3000 EUR. Kerry LEO Feasibility Grant 50 pct up to 15000 EUR, no match required.
 ---
 
 # The market
+7 Kerry towns, 54,279 people. Two hubs Tralee 26,079 + Killarney 14,500 = 74.7 pct of addressable demand. Independents are bleeding online sales to 25-35 pct aggregators.
 
-7 Kerry towns, 54279 people, two hubs Tralee 26079 and Killarney 14500 = 74.7 pct of addressable demand. Independent grocers are losing online sales to 25-35 pct aggregators.
 ---
 
-# Why it is viable and safe
+# The model, true
+15/20/28 pct commission plus ONE EUR 2.50 customer service fee. A Zone A grocery drop nets the platform EUR 2.45 and pays the driver EUR 7 to clear their fuel.
 
-asset-light, zero-fleet Stage A, own-car couriers. The pilot SELF-FUNDS at about 6 drops a day with no capital - 4.44 net per drop on a 50 EUR basket. The grant buys SPEED and evidence, not survival. A project that cannot die if you say no.
+---
+
+# Why it survives without the grant
+Asset-light, zero-fleet Stage A, own-car couriers. The pilot SELF-FUNDS at about 10 drops a day across 3 stores with no capital. The grant buys SPEED and the research to go 3-to-22 stores - a project that cannot die if you say no.
+
 ---
 
 # The tech exists
+FastAPI 98 routes, React PWA, 3 role pathways, AI inventory onboarding, open-source dispatch, EUR 0 vendor fees. Multi-tenant refactor is Phase 2.
 
-FastAPI 98 routes, React PWA, 3 role pathways, AI inventory onboarding, open-source dispatch, 0 EUR vendor fees. Multi-tenant refactor is Phase 2.
 ---
 
-# Later green capital asks (not this stage)
+# Later green capital (not this stage)
+SEAI commercial EV EUR 3,800, VRT relief up to EUR 5,000 before 31 Dec 2026, ZEVI charging EUR 5,000 per charger. Fleet = Phase 3.
 
-SEAI commercial EV 3800, VRT relief 5000 before 31 Dec 2026, ZEVI charging 5000 per charger. Fleet = Phase 3.
 ---
 
 # Roadmap
-
 Phase 1 Tralee 3 stores. Phase 2 multi-tenant + Killarney Stage B. Phase 3 EV vans + e-bikes + depot solar + farm-to-door. Phase 4 22 stores.
+
 ---
 
 # Public value
+Keeps spend local, backs Kerry producers and the halal community, low-emission last mile, rural jobs on a guaranteed pay floor.
 
-keeps spend local, supports Kerry producers and halal community, low-emission last mile, rural jobs at a guaranteed floor.
 ---
 
 # Honest caveats on file
+Min-wage citation, real van lease and insurance quotes, BYD service network, and the restaurant commission structure are all flagged as open, not hidden.
 
-min-wage citation, real van lease and insurance quotes, BYD service network - all flagged, not hidden.
 ---
 
-# Close
-
-fund the study, we bring the evidence and the first 3 stores live in 4 weeks.
+# The close
+Fund the study. We bring the evidence and 3 live Tralee stores in 4 weeks.
