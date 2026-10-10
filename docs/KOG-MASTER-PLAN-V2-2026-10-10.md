@@ -42,6 +42,7 @@ Average basket EUR 50. Card processing EUR 0.55 per transaction.
 Zone A (up to 5 km): store commission 15% = 7.50 + customer delivery fee 3.99 = 11.49 revenue; driver pay 6.50; NET 4.44
 Zone B (5-12 km): commission 20% = 10.00 + fee 5.49 = 15.49 revenue; driver pay 10.00; NET 4.94
 Zone C (12+ km): commission 28% = 14.00 + fee 6.99 = 20.99 revenue; driver pay 15.50; NET 4.94
+NOTE: section 4 is the higher-margin model A, shown for comparison. The FOUNDER chose model B in section 4B (ONE low EUR 2.50 customer service fee, NET 2.45 per grocery drop). Read 4B as the operative model.
 
 HONEST PITCH LINE (replaces the contradictory 5% / keep-100% claim):
 "We take 15% on a local order. Just Eat takes 25 to 35%. You keep your customer data and your prices."
@@ -139,7 +140,7 @@ FastAPI backend, 98 routes. React/Vite PWA frontend, 3 role pathways (Customer, 
 - SEAI commercial EV grant: EUR 3,800 (category N1S), applied at dealer.
 - VRT relief: up to EUR 5,000, electric commercial vehicles registered before 31 Dec 2026.
 - ZEVI workplace charging: up to EUR 5,000 per charger installed.
-Framing for funders: this is NOT "fund us or we die." The pilot self-funds at ~6 drops/day with zero capital. The grant buys SPEED and the research that turns 3 stores into 22. A project that cannot die if they say no is the strongest card you have.
+Framing for funders: this is NOT "fund us or we die." The pilot self-funds at ~10 drops/day (about 816 drops over 12 weeks) at the chosen EUR 2.50 service-fee model, NET 2.45 per grocery drop, with zero capital. The grant buys SPEED and the research that turns 3 stores into 22. A project that cannot die if they say no is the strongest card you have.
 
 ## 11. ROADMAP
 
