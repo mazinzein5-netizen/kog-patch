@@ -6,12 +6,12 @@ size: 16:9
 ---
 
 # Kingdom Organics - Store Partner
-Fresh local and halal, delivered. Tralee pilot. 2026.
+Fresh, organic and specialty, delivered. Tralee pilot. 2026.
 
 ---
 
 # The problem
-Just Eat and Deliveroo take 25-35 pct and keep YOUR customer. On EUR 2,000 of weekly orders a 25 pct cut is EUR 26,000 a year gone.
+big delivery apps take 25-35 pct and keep YOUR customer. On EUR 2,000 of weekly orders a 25 pct cut is EUR 26,000 a year gone.
 
 ---
 
@@ -21,7 +21,7 @@ We take 15 pct on a local order. Zone A up to 5km = 15 pct, Zone B 5-12km = 20 p
 ---
 
 # What the customer sees
-One small EUR 2.50 service fee, shown BEFORE checkout. Not a fat 3.99 app fee. We are the platform that charges families LESS.
+One small EUR 3.99 service fee, shown BEFORE checkout. Not a fat 3.99 app fee. We are the platform that charges families LESS.
 
 ---
 
@@ -36,7 +36,7 @@ First 3 Kerry stores get 50% off commission (about 7.5 pct) for year one, then b
 ---
 
 # The saving, true
-vs a 25 pct aggregator on EUR 2,000/week: you save EUR 10,400 a year at our standard 15 pct, or about EUR 18,200 in year one on the 50% off founding rate.
+vs a 25 pct big delivery app on EUR 2,000/week: you save EUR 10,400 a year at our standard 15 pct, or about EUR 18,200 in year one on the 50% off founding rate.
 
 ---
 
