@@ -1,6 +1,6 @@
 # READ THIS FIRST - GEMINI NOTEBOOK / NOTEBOOKLM
 
-This zip is the Kingdom Organics pitch package, numbers frozen from Master Plan V2 (two-market fee, EUR 2.50 single service fee, 4-6 week pilot, 50% off commission year one for pilot stores).
+This zip is the Kingdom Organics pitch package, numbers frozen from Master Plan V2 (two-market fee, EUR 2.50 single service fee, 4-6 week pilot, 50% off the store package year one for pilot stores).
 
 Files:
 - KOG-DECK1-STORE-PITCH : independent grocers
