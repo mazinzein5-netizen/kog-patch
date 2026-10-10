@@ -5,22 +5,20 @@ paginate: true
 size: 16:9
 ---
 
+# Kingdom Organics - Takeaway & Fast Food
+Extra peak courier coverage. No commission.
 
-# RESTAURANT / FAST FOOD
-Kingdom Organics. Tralee pilot. 2026.
-
----
-
-# Title
-
-Extra courier coverage, no extra commission.
 ---
 
 # Peak help
+On your Friday and Saturday crunch we bring spare drivers so you stop turning away orders. Flat per-collection courier fee agreed at signup - no percentage cut on your takings, ever.
 
-on your Friday/Saturday crunch we bring spare drivers so you stop turning away orders. Flat fee per drop, in-town 6.00, ring 9.00, between-town 14.00. No percentage cut, ever.
 ---
 
-# Why it is cheaper
+# The customer hook
+Customers pay just a EUR 2.50 service fee, the lowest in town, shown before checkout. Cheaper than any app, so more orders land on YOUR till, not an aggregator.
 
-on 20 peak drops a week at 6 EUR that is 120 EUR, against about 150 EUR of platform commission on the same orders - and you keep the customer. Saves roughly 1560 EUR a year and your brand stays on the bag.
+---
+
+# What your driver earns
+Takeaway drops pay EUR 5.50 in town, EUR 7.50 ring, EUR 11.00 between-town, and the driver keeps 100 pct of tips. No tip games. Reliable drivers show up because we pay them properly.
