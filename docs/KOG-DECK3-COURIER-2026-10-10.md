@@ -5,42 +5,40 @@ paginate: true
 size: 16:9
 ---
 
-
-# COURIER RECRUITMENT
-Kingdom Organics. Tralee pilot. 2026.
+# Kingdom Organics - Drive With Us
+Keep what you earn. No tip games.
 
 ---
 
-# Title
+# Two kinds of driving, two fair rates
+Grocery is a few heavy cold drops, so each drop pays MORE. Takeaway is many light drops, so volume pays. Both clear your gas.
 
-Drive with Kingdom Organics. Keep what you earn.
 ---
 
-# Your pay, honest
+# Grocery per drop (heavy, cold-box, one shop per trip)
+EUR 7.00 in town, EUR 9.50 ring, EUR 14.00 between-town. Set high enough to cover the fuel and the carrying.
 
-per drop, in-town 6.50, ring 10.00, between-town 15.50. You keep 100 pct of the driver fee we pay you - nothing deducted. (The customer delivery fee funds dispatch, insurance and support; it is not taken from you.)
 ---
 
-# Pilot safety net
+# Takeaway per drop (light, fast, 3-4 an hour)
+EUR 5.50 in town, EUR 7.50 ring, EUR 11.00 between-town, and you KEEP 100 pct of tips, on top of the drop fee.
 
-minimum shift guarantee 40 EUR for a 3-hour booked window (about 13.33/hr floor). Above the floor you earn per drop. A worked week of 60 town, 20 ring, 10 long drops pays 680 EUR.
 ---
 
-# Own car is fine in the pilot
+# The pilot safety net
+Guaranteed shift floor EUR 40 for a 3-hour booked window (about EUR 13.33 an hour). Above that, every drop you finish pays. A busy week clears EUR 600+.
 
-no van needed. Fuel is covered by the per-drop rate and the distance bands protect long runs.
 ---
 
-# Kingdom Electric Fleet, later
+# Why we are different (the anti-squeeze)
+DoorDash was caught using your tips to SUBSIDISE its base pay - a EUR 20 tip did not add to what you earned. We publish the rate BEFORE you accept and never touch your tips. Just Eat shows no rate at all. We do.
 
-once funded you can rent a vehicle instead of your car. Cargo e-bike 9 EUR/day, no licence, no insurance. Electric moped 20 EUR/day, AM licence. Electric van 35 EUR/day, full licence. Pick the tier that suits your town.
 ---
 
-# Flexibility
+# Own car is fine now
+Pilot needs no van - use your own car, fuel is covered by the per-drop rate. Later (Phase 3, funded): rent a cargo e-bike EUR 9/day (no licence, no insurance), an electric moped EUR 20/day, or an electric van EUR 35/day.
 
-book the shifts you want, paid weekly, no minimum commitment, stop any week.
 ---
 
-# Close
-
-grab a 3-hour Tralee window this month. Guaranteed floor, real per-drop upside.
+# The start
+Grab a 3-hour Tralee window this month. Guaranteed floor, real per-drop upside, 100 pct of tips kept.
