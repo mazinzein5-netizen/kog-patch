@@ -16,7 +16,7 @@ On your Friday and Saturday crunch we bring spare drivers so you stop turning aw
 ---
 
 # The customer hook
-Customers pay just a EUR 2.50 service fee, the lowest in town, shown before checkout. Cheaper than any app, so more orders land on YOUR till, not an aggregator.
+Customers pay just a EUR 3.99 service fee, the lowest in town, shown before checkout. Cheaper than any app, so more orders land on YOUR till, not an big delivery app.
 
 ---
 
