@@ -49,6 +49,30 @@ Effective platform take rate is ~10% of a EUR 50 basket. That genuinely undercut
 
 Pilot founding rate: for the first 3 signed stores, a founding commission of 8% (not 3%) for 12 months. Reason: 3% on Zone A nets the platform a LOSS of 1.56 per drop. 8% keeps the founding offer generous AND solvent. If the founder insists on 3%, the LEADER A&D grant must underwrite the gap - that is what that grant funds.
 
+## 4B. TWO-MARKET FEE MODEL + LOW TRANSPARENT SERVICE FEE (founder fix 2026-10-10, supersedes earlier 4B)
+
+Founder principle: the customer sees ONE small service fee of EUR 2.50, NOT a fat 3.99/4.99 delivery fee. The whole brand promise is the family-friendly platform that CHARGES THE CUSTOMER LESS. One line, low, shown before checkout. Never stack fees (no drip pricing).
+
+Grocery and takeaway are opposite driver-economics markets, so the DROP must clear the driver's gas even though the CUSTOMER fee stays low:
+- Fuel all-in about EUR 0.15/km. Tralee in-town grocery round 8-12 km = about EUR 1.50 fuel + heavy cold-shop carrying, and only 2-3 drops a shift. So a grocery drop must pay the driver about EUR 7.00 to be worth the gas. Takeaway rounds are light, about 6 km = EUR 0.90 fuel, but 3-4 per hour, so EUR 5.50 clears gas 9x on volume.
+
+HOW THE MATH RECONCILES (one Zone A grocery drop, 50 EUR basket):
+- Customer pays: basket 50.00 + service fee 2.50 (one cheap line, beats the app-standard 3.99)
+- Store pays: commission 15 pct = 7.50
+- Revenue pool = 7.50 + 2.50 = 10.00
+- Driver paid 7.00 (clears gas) ; platform net 3.00 ; card 0.55 ; NET 2.45 per drop
+Takeaway Zone A: customer service fee 2.50 ; restaurant per-drop courier fee covers driver 5.50 + platform margin (restaurant fee structure still to be agreed with the founder).
+
+Zone driver pay bands (grocery, premium, cold-box, one shop per trip): Zone A EUR 7.00 / Zone B EUR 9.50 / Zone C EUR 14.00.
+Zone driver pay bands (takeaway, light, volume): Zone A EUR 5.50 / Zone B EUR 7.50 / Zone C EUR 11.00, keep 100 pct of tips.
+Customer-facing service fee: EUR 2.50 flat, all zones, both markets. Shown before checkout. This is the anti-squeeze, charge-less hook for the pitch.
+
+DOORDASH WHAT-HAPPENED (advertise against it): DoorDash documented 2019-2021 using customer TIPS to SUBSIDISE base pay (a 20 EUR tip did not add to driver pay, it replaced company pay); backlash forced the industry to keep-100-pct-of-tips-plus-pay. Just Eat IE publishes NO per-drop rate (opaque). Deliveroo shows the fee before you accept. Our pitch: low EUR 2.50 customer fee, published driver rate, keep 100 pct tips, guaranteed shift floor. The opposite of the squeeze, for BOTH sides.
+
+TRUTH THE FOUNDER MUST OWN (this is the trade-off): dropping the customer fee from 3.99 to 2.50 cuts platform net per grocery drop from 4.44 to 2.45. Still profitable. But the self-fund claim changes: a 2000 EUR pilot cost at 2.45 net is about 816 drops over 12 weeks = about 10 drops a day across 3 stores (was about 6 at 4.44). Still realistic, but the Funder deck must say 10, not 6. The bet is that charging the customer LESS lifts conversion and volume enough to make back the thinner margin on more drops.
+
+FLAG: fuel EUR 0.15/km and 2-3 grocery trips/week Tralee are ESTIMATES; DoorDash 2019-2021 detail is widely-documented history, not re-verified in this run. Restaurant commission structure open. Confirm before print.
+
 ## 5. COURIER PAY - PER TRIP WITH A FLOOR (founder decision)
 
 Drop = one customer order. Trip = a batched run of 3-4 drops from one hub.
