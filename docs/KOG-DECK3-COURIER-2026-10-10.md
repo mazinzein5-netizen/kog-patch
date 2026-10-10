@@ -2,43 +2,44 @@
 marp: true
 theme: default
 paginate: true
-size: 16:9
 ---
 
-# Kingdom Organics - Drive With Us
-Keep what you earn. No tip games.
-
----
-
-# Two kinds of driving, two fair rates
-Grocery is a few heavy cold drops, so each drop pays MORE. Takeaway is many light drops, so volume pays. Both clear your gas.
+# Kingdom Organics - Driver Careers
+Delivering Kerry's own fresh groceries. Tralee Pilot. 2026.
 
 ---
 
-# Grocery per drop (heavy, cold-box, one shop per trip)
-EUR 7.00 in town, EUR 9.50 ring, EUR 14.00 between-town. Set high enough to cover the fuel and the carrying.
+## Be your own driver
+No boss, no uniform, no warehouse. You choose your 3-hour windows and drive in Tralee using your own car.
 
 ---
 
-# Takeaway per drop (light, fast, 3-4 an hour)
-EUR 5.50 in town, EUR 7.50 ring, EUR 11.00 between-town, and you KEEP 100 pct of tips, on top of the drop fee.
+## The Zone A grocery pay
+Because grocery baskets are large, we pay the driver fairly for carrying heavy, cold orders.
+Zone A (up to 5 km): EUR 7.00 per drop
+Zone B (5-12 km): EUR 9.50 per drop
+Zone C (12 km+): EUR 14.00 per drop
 
 ---
 
-# The pilot safety net
-Guaranteed shift floor EUR 40 for a 3-hour booked window (about EUR 13.33 an hour). Above that, every drop you finish pays. A busy week clears EUR 600+.
+## The takeaway driver pay
+Delivering food is fast and light. Because you do more drops per hour, the volume is where the money is.
+Zone A: EUR 5.50 per drop
+Zone B: EUR 7.50 per drop
+Zone C: EUR 11.00 per drop
+You keep 100 pct of customer tips, we don't touch them.
 
 ---
 
-# Why we are different (the anti-squeeze)
-DoorDash was caught using your tips to SUBSIDISE its base pay - a EUR 20 tip did not add to what you earned. We publish the rate BEFORE you accept and never touch your tips. the big delivery apps shows no rate at all. We do.
+## Why we do this differently
+The apps squeeze you, taking up to 35 pct from the restaurant, and offer you tiny delivery rates. We offer a flat per-drop rate so you know exactly what you earn.
 
 ---
 
-# Own car is fine now
-Pilot needs no van - use your own car, fuel is covered by the per-drop rate. Later (Phase 3, funded): rent a cargo e-bike EUR 9/day (no licence, no insurance), an electric moped EUR 20/day, or an electric van EUR 35/day.
+## The floor guarantee
+We open a driver window only when enough drops are booked to guarantee your minimum. Thin days don't trap you, so you aren't paid out of our empty pocket.
 
 ---
 
-# The start
-Grab a 3-hour Tralee window this month. Guaranteed floor, real per-drop upside, 100 pct of tips kept.
+## The Phase 3 Fleet
+In phase 3, when we have the grant funding, you can rent our e-bikes or electric vans for a fair daily fee, keeping more money in your pocket by not burning fuel.
