@@ -48,7 +48,7 @@ HONEST PITCH LINE (replaces the contradictory 5% / keep-100% claim):
 "We take 15% on a local order. Just Eat takes 25 to 35%. You keep your customer data and your prices."
 Effective platform take rate is ~10% of a EUR 50 basket. That genuinely undercuts aggregators. Say it plainly; do not promise 5%.
 
-Pilot founding rate: for the first 3 signed stores, a founding commission of 8% (not 3%) for 12 months. Reason: 3% on Zone A nets the platform a LOSS of 1.56 per drop. 8% keeps the founding offer generous AND solvent. If the founder insists on 3%, the LEADER A&D grant must underwrite the gap - that is what that grant funds.
+Pilot founding rate: for the first 3 signed stores, 50% off commission (about 7.5%) for YEAR ONE, auto-return to the standard 15% in month 13. Reason: 3% on Zone A nets the platform a LOSS of 1.56 per drop. 8% keeps the founding offer generous AND solvent. If the founder insists on 3%, the LEADER A&D grant must underwrite the gap - that is what that grant funds.
 
 ## 4B. TWO-MARKET FEE MODEL + LOW TRANSPARENT SERVICE FEE (founder fix 2026-10-10, supersedes earlier 4B)
 
@@ -140,7 +140,7 @@ FastAPI backend, 98 routes. React/Vite PWA frontend, 3 role pathways (Customer, 
 - SEAI commercial EV grant: EUR 3,800 (category N1S), applied at dealer.
 - VRT relief: up to EUR 5,000, electric commercial vehicles registered before 31 Dec 2026.
 - ZEVI workplace charging: up to EUR 5,000 per charger installed.
-Framing for funders: this is NOT "fund us or we die." The pilot self-funds at ~10 drops/day (about 816 drops over 12 weeks) at the chosen EUR 2.50 service-fee model, NET 2.45 per grocery drop, with zero capital. The grant buys SPEED and the research that turns 3 stores into 22. A project that cannot die if they say no is the strongest card you have.
+Framing for funders: this is NOT "fund us or we die." At the STANDARD 15% rate the pilot self-funds at ~10 drops/day (NET 2.45 per grocery drop). At the 50% off founding rate a grocery drop runs about EUR 1.30 under water, so the whole 4-week pilot outlay is only about EUR 350-550, a cost paid for by the LEADER/LEO study. The grant buys SPEED and the research that turns 3 stores into 22. A project that cannot die if they say no is the strongest card you have.
 
 ## 11. ROADMAP
 
@@ -159,3 +159,6 @@ Phase 4 (Y2): 22 stores, 11 vans / 20 bikes, EUR 30k-50k/mo revenue.
 
 ---
 Compiled 2026-10-10. Read-only planning. No code changed, no deployment. Every source free. Cost of this document: EUR 0.
+## 13. PILOT v3 ACCELERATION (founder decision 2026-10-10, ASAP funding)
+
+Pilot window shortened to 4-6 weeks (target 4), Tralee Stage A only. Pilot partner stores get 50% off commission (about 7.5%) for YEAR ONE, auto-return to 15% in month 13. Takeaway keeps its flat per-drop fee, NOT discounted, so restaurants are not trained on giveaways. The pilot IS the feasibility evidence: hand the grantor orders/day, average order value, repeat rate, courier earnings, store retention. Honest note: at 50% off the pilot runs about EUR 1.30 per grocery drop under water, total about EUR 350-550 over 4 weeks, covered by the grant. The fastest real cash is the EoI plus a parallel Kerry LEO Feasibility Grant (50% up to 15,000, no match, often faster) alongside LEADER A&D (90% up to 30,000). The pilot will not fund the founder in days; the grant will, in weeks.
