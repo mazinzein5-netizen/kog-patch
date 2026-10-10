@@ -11,17 +11,17 @@ The low-fee local platform for Tralee. 2026.
 ---
 
 # Why it costs less
-You pay one small EUR 2.50 service fee, shown BEFORE checkout. Most apps add a 3.99 delivery fee and take 25-35 pct behind the scenes. We are a local platform, so we charge you LESS, not more.
+You pay one small EUR 3.99 service fee, shown BEFORE checkout. Most apps add a 3.99 delivery fee and take 25-35 pct behind the scenes. We are a local platform, so we charge you LESS, not more.
 
 ---
 
 # Your weekly grocery shop
-Shop Tralee's own grocers, butchers and halal counters in one basket. Organic and fresh, packed with cold-box care, delivered same-day or next-day. Bigger shop, lower fee than the big supermarket delivery.
+Shop Tralee's own grocers, butchers and Oriental grocery shops in one basket. Organic and fresh, packed with cold-box care, delivered same-day or next-day. Bigger shop, lower fee than the big supermarket delivery.
 
 ---
 
 # Your local fast food
-Your favourite takeaways in the same app as your groceries. Low EUR 2.50 fee, and because we pay drivers properly your order actually turns up on time. The money stays in town.
+Your favourite takeaways in the same app as your groceries. Low EUR 3.99 fee, and because we pay drivers properly your order actually turns up on time. The money stays in town.
 
 ---
 
