@@ -18,7 +18,7 @@ A single 3-zone model applies to BOTH groceries and fast food:
 | B 5-12 km | 20 pct |
 | C 12 km+ | 28 pct |
 
-The rate rises with distance, so a long run gives the store AND the driver more cash. The commission never moves, no founding rate, no discount.
+The rate rises with distance, so a long run gives the store AND the driver more cash. The commission never moves, no pilot discount on the commission.
 
 ---
 
