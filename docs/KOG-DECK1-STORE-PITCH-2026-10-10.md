@@ -31,12 +31,12 @@ Your customer data, your shelf prices, your brand. We are a channel, not a landl
 ---
 
 # Founding pilot offer
-First 3 Kerry stores get 8 pct for 12 months. Tralee Stage A, 4 weeks. Own-car couriers, zero fleet cost to you. We onboard your stock from photos in 24-48h.
+First 3 Kerry stores get 50% off commission (about 7.5 pct) for year one, then back to 15 pct in month 13, in a fast 4-6 week Tralee sprint. Tralee Stage A, 4 weeks. Own-car couriers, zero fleet cost to you. We onboard your stock from photos in 24-48h.
 
 ---
 
 # The saving, true
-vs a 25 pct aggregator on EUR 2,000/week: you save EUR 10,400 a year at our standard 15 pct, or EUR 17,680 in year one on the founding 8 pct rate.
+vs a 25 pct aggregator on EUR 2,000/week: you save EUR 10,400 a year at our standard 15 pct, or about EUR 18,200 in year one on the 50% off founding rate.
 
 ---
 
