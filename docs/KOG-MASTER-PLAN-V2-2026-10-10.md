@@ -17,7 +17,7 @@ This is the source content for the pitch decks. Two rules learned the hard way:
 
 ## 1. MISSION
 
-Distance-based grocery and marketplace delivery for independent Kerry grocers: organic, fresh meat and poultry, halal. Asset-light, courier-first, capital-light. Keeps local spend local.
+Distance-based grocery and marketplace delivery for independent Kerry grocers: organic and specialty meat. Asset-light, courier-first, capital-light. Keeps local spend local.
 
 ## 2. MARKET (kept from the PDF, it is correct)
 
@@ -39,14 +39,14 @@ Pilot couriers use their OWN cars (Cohort C). No vans, no e-bikes, no vehicle pu
 
 Average basket EUR 50. Card processing EUR 0.55 per transaction.
 
-Zone A (up to 5 km): store commission 15% = 7.50 + customer delivery fee 3.99 = 11.49 revenue; driver pay 6.50; NET 4.44
+Zone A (up to 5 km): store commission 15% = 7.50 + customer Delivery EUR 2.50 + Service EUR 1.49 = 11.49 revenue; driver pay 6.50; NET 4.44
 Zone B (5-12 km): commission 20% = 10.00 + fee 5.49 = 15.49 revenue; driver pay 10.00; NET 4.94
 Zone C (12+ km): commission 28% = 14.00 + fee 6.99 = 20.99 revenue; driver pay 15.50; NET 4.94
-NOTE: section 4 is the higher-margin model A, shown for comparison. The FOUNDER chose model B in section 4B (ONE low EUR 2.50 customer service fee, NET 2.45 per grocery drop). Read 4B as the operative model.
+NOTE: section 4 is the higher-margin model A, shown for comparison. The FOUNDER chose model B in section 4B (ONE low EUR 2.50 customer service fee, NET 3.94 per grocery drop). Read 4B as the operative model.
 
 HONEST PITCH LINE (replaces the contradictory 5% / keep-100% claim):
-"We take 15% on a local order. Just Eat takes 25 to 35%. You keep your customer data and your prices."
-Effective platform take rate is ~10% of a EUR 50 basket. That genuinely undercuts aggregators. Say it plainly; do not promise 5%.
+"We take 15% on a local order. the big delivery apps takes 25 to 35%. You keep your customer data and your prices."
+Effective platform take rate is ~10% of a EUR 50 basket. That genuinely undercuts big delivery apps. Say it plainly; do not promise 5%.
 
 Pilot founding rate: for the first 3 signed stores, 50% off commission (about 7.5%) for YEAR ONE, auto-return to the standard 15% in month 13. Reason: 3% on Zone A nets the platform a LOSS of 1.56 per drop. 8% keeps the founding offer generous AND solvent. If the founder insists on 3%, the LEADER A&D grant must underwrite the gap - that is what that grant funds.
 
@@ -61,14 +61,14 @@ HOW THE MATH RECONCILES (one Zone A grocery drop, 50 EUR basket):
 - Customer pays: basket 50.00 + service fee 2.50 (one cheap line, beats the app-standard 3.99)
 - Store pays: commission 15 pct = 7.50
 - Revenue pool = 7.50 + 2.50 = 10.00
-- Driver paid 7.00 (clears gas) ; platform net 3.00 ; card 0.55 ; NET 2.45 per drop
+- Driver paid 7.00 (clears gas) ; platform net 3.00 ; card 0.55 ; NET 3.94 per drop
 Takeaway Zone A: customer service fee 2.50 ; restaurant per-drop courier fee covers driver 5.50 + platform margin (restaurant fee structure still to be agreed with the founder).
 
 Zone driver pay bands (grocery, premium, cold-box, one shop per trip): Zone A EUR 7.00 / Zone B EUR 9.50 / Zone C EUR 14.00.
 Zone driver pay bands (takeaway, light, volume): Zone A EUR 5.50 / Zone B EUR 7.50 / Zone C EUR 11.00, keep 100 pct of tips.
 Customer-facing service fee: EUR 2.50 flat, all zones, both markets. Shown before checkout. This is the anti-squeeze, charge-less hook for the pitch.
 
-DOORDASH WHAT-HAPPENED (advertise against it): DoorDash documented 2019-2021 using customer TIPS to SUBSIDISE base pay (a 20 EUR tip did not add to driver pay, it replaced company pay); backlash forced the industry to keep-100-pct-of-tips-plus-pay. Just Eat IE publishes NO per-drop rate (opaque). Deliveroo shows the fee before you accept. Our pitch: low EUR 2.50 customer fee, published driver rate, keep 100 pct tips, guaranteed shift floor. The opposite of the squeeze, for BOTH sides.
+DOORDASH WHAT-HAPPENED (advertise against it): DoorDash documented 2019-2021 using customer TIPS to SUBSIDISE base pay (a 20 EUR tip did not add to driver pay, it replaced company pay); backlash forced the industry to keep-100-pct-of-tips-plus-pay. the big delivery apps IE publishes NO per-drop rate (opaque). big delivery apps shows the fee before you accept. Our pitch: low EUR 3.99 customer fee, published driver rate, keep 100 pct tips, guaranteed shift floor. The opposite of the squeeze, for BOTH sides.
 
 TRUTH THE FOUNDER MUST OWN (this is the trade-off): dropping the customer fee from 3.99 to 2.50 cuts platform net per grocery drop from 4.44 to 2.45. Still profitable. But the self-fund claim changes: a 2000 EUR pilot cost at 2.45 net is about 816 drops over 12 weeks = about 10 drops a day across 3 stores (was about 6 at 4.44). Still realistic, but the Funder deck must say 10, not 6. The bet is that charging the customer LESS lifts conversion and volume enough to make back the thinner margin on more drops.
 
@@ -114,7 +114,7 @@ Launch fleet when funded: 3 electric vans + 4-6 cargo e-bikes.
 
 These lift platform profit WITHOUT a visible price rise, so they do not feel like a fee hike to stores or customers:
 
-1. Bigger baskets. Push EUR 60-80 organic boxes and halal meat boxes, not single-item orders. Commission is a % of basket, so a 70 basket earns 10.50 vs 7.50 on a 50 basket, same 15% rate, no price change anyone notices.
+1. Bigger baskets. Push EUR 60-80 organic boxes and specialty meat boxes, not single-item orders. Commission is a % of basket, so a 70 basket earns 10.50 vs 7.50 on a 50 basket, same 15% rate, no price change anyone notices.
 2. Early-payout fee for stores. Settle a store instantly for 1% instead of weekly. Voluntary, transparent, pure margin.
 3. Store-paid featured placement. A store can pay to sit at the top of its category, clearly labelled as promoted (Amazon-style). Honest auction of attention you already own.
 4. Consolidated-slot discount. Offer customers a lower fee if they pick a shared delivery window. This raises drops-per-trip, which is where the real cost saving is.
@@ -140,7 +140,7 @@ FastAPI backend, 98 routes. React/Vite PWA frontend, 3 role pathways (Customer, 
 - SEAI commercial EV grant: EUR 3,800 (category N1S), applied at dealer.
 - VRT relief: up to EUR 5,000, electric commercial vehicles registered before 31 Dec 2026.
 - ZEVI workplace charging: up to EUR 5,000 per charger installed.
-Framing for funders: this is NOT "fund us or we die." At the STANDARD 15% rate the pilot self-funds at ~10 drops/day (NET 2.45 per grocery drop). At the 50% off founding rate a grocery drop runs about EUR 1.30 under water, so the whole 4-week pilot outlay is only about EUR 350-550, a cost paid for by the LEADER/LEO study. The grant buys SPEED and the research that turns 3 stores into 22. A project that cannot die if they say no is the strongest card you have.
+Framing for funders: this is NOT "fund us or we die." At the STANDARD 15% rate the pilot self-funds at ~10 drops/day (NET 3.94 per grocery drop). At the 50% off founding rate a grocery drop runs about EUR 1.30 under water, so the whole 4-week pilot outlay is only about EUR 350-550, a cost paid for by the LEADER/LEO study. The grant buys SPEED and the research that turns 3 stores into 22. A project that cannot die if they say no is the strongest card you have.
 
 ## 11. ROADMAP
 
