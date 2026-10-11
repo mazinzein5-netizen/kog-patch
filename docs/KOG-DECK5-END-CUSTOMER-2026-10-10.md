@@ -11,7 +11,7 @@ The low-fee local platform for Tralee. 2026.
 ---
 
 # Why it costs less
-You pay one small EUR 3.99 service fee, shown BEFORE checkout. Most apps add a 3.99 delivery fee and take 25-35 pct behind the scenes. We are a local platform, so we charge you LESS, not more.
+You pay one transparent fee, shown before you order: Delivery EUR 2.50 plus Service EUR 1.49, a total of EUR 3.99. No stacked charges at the last step. And we take a flat 15 pct from the shops instead of 25 to 35 pct behind the scenes, so local prices stay honest.
 
 ---
 
